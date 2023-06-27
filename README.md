@@ -1,6 +1,6 @@
 # Dilevroo Clone App
 
-![Dilevroo Clone App](app_screenshot.png)
+![Dilevroo Clone App]
 
 Welcome to the Dilevroo Clone App repository! This is a React Native-based food delivery application that aims to revolutionize the way we order food. With a sleek UI design, efficient state management, and powerful backend integration, the Dilevroo Clone App is set to provide a cutting-edge user experience.
 
@@ -34,8 +34,6 @@ To get started with the Dilevroo Clone App, follow these steps:
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository. Additionally, feel free to submit pull requests with improvements or fixes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Let's revolutionize the way we order food! 🍽️📲🌟
